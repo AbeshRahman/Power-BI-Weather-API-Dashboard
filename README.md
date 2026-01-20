@@ -1,5 +1,7 @@
 # Weather-API-Power-BI-Dashboard
 
+![Dashboard Preview](https://github.com/AbeshRahman/Weather-API-Power-BI-Dashboard/blob/main/Screenshot%20-%20Dhaka%20Weather.png)
+
 **Project Overview**: 
 The Weather Analytics Dashboard is an interactive Power BI report designed to convert live weather data into clear, actionable insights. By integrating real-time data from a Weather API, the dashboard enables users to monitor and analyze weather conditions across locations with ease, accuracy, and visual clarity.
 
@@ -21,5 +23,5 @@ The report uses cards, charts, slicers, and conditional formatting to enhance re
 **Business & Learning Impact**: 
 This project demonstrates real-time analytics capabilities using Power BI and APIs. It reflects practical skills in data integration, transformation, modeling, and dashboard design—skills highly relevant for data analyst and business intelligence roles. The project significantly strengthened my hands-on understanding of API-driven reporting and Power BI best practices.
 
-The Dashboard Looks like this: ![Dashboard Preview](https://github.com/AbeshRahman/Weather-API-Power-BI-Dashboard/blob/main/Screenshot%20-%20Dhaka%20Weather.png)
+The Dashboard Looks like this:
 ![Dashboard Preview](https://github.com/AbeshRahman/Power-BI-Weather-API-Dashboard/blob/main/Screenshot%20-%20London%20Weather.png)
